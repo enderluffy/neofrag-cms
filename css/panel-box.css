@@ -3,6 +3,9 @@
 	display: block;
 	margin-bottom: 15px;
 	position: relative;
+	border: 2px solid;
+	border-radius: 12px;
+	
 }
 
 .small-box > .inner {
